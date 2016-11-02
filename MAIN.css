@@ -1,0 +1,210 @@
+.main{
+  width: 100%;
+}
+.maingood{
+  width: 980px;
+  margin: auto;
+border: 3px solid #75120a;
+}
+#designer-header-middle {
+width: 100%;
+position: relative;
+margin: 0 auto;
+padding: 0;
+clear: both;
+display: table;
+max-width: 1200px;
+border-bottom: 3px solid #75120a;
+}
+#designer-logo {
+float: left;
+margin: 24px 0 17px 18px;
+padding: 0;
+width: auto;
+
+}
+#designer-logo img {
+float: left;
+transition: all 0.7s ease-in-out;
+margin: 0;
+border: 0 none;
+  border-radius: 15px;
+}
+.top-right {
+width: 36%;
+float: right;
+margin: 0;
+padding: 0;
+}
+.free-shipping {
+width: auto;
+float: left;
+margin: 1.2em 0 0.2em;
+padding: 0 0 0 2em;
+font-family: 'Open Sans', sans-serif;
+font-size: 16pt;
+font-weight: normal;
+color: #223b59;
+text-transform: uppercase;
+
+}
+.free-shippinggood{
+width: auto;
+float: left;
+margin: 1.2em 0 -0.8em;
+padding: 7.5px 0 0 2em;
+font-family: 'Open Sans', sans-serif;
+font-size: 16pt;
+font-weight: normal;
+color: #223b59;
+
+text-transform: uppercase;
+}
+.FEARTURE {
+  width: 100%;
+  float: left;
+  margin-left: 124px;
+}
+.FEARTURE1{
+
+margin: 1.2em 0 0.2em;
+padding: 0 0 0 2em;
+font-family: 'Open Sans', sans-serif;
+font-size: 16pt;
+font-weight: normal;
+color: #223b59;
+text-transform: uppercase;
+background: url("https://raw.githubusercontent.com/danish1u/rick/master/imges/asasas.png") no-repeat left center;
+}
+.FEARTURE2{
+
+margin: 1.2em 0 0.2em;
+padding: 0 0 0 2em;
+font-family: 'Open Sans', sans-serif;
+font-size: 16pt;
+font-weight: normal;
+color: #223b59;
+background: url("https://raw.githubusercontent.com/danish1u/rick/master/imges/asasas.png") no-repeat left center;
+text-transform: uppercase;
+}
+.FEARTURE3{
+
+margin: 1.2em 0 0.2em;
+padding: 0 0 0 2em;
+font-family: 'Open Sans', sans-serif;
+font-size: 16pt;
+font-weight: normal;
+color: #223b59;
+background: url("https://raw.githubusercontent.com/danish1u/rick/master/imges/asasas.png") no-repeat left center;
+text-transform: uppercase;
+}
+
+.esd{
+width: 100%
+}
+.esd h2{
+text-align: center;
+color: black;
+font-size: 41px;
+font-weight: bold;
+font-family: sans-serif;
+margin-bottom: -31px;
+}
+
+.esd p{
+text-align: center;
+color: #75120a;
+font-size: 36px;
+}
+.imge{
+width: 980px;
+display: block;
+text-align: center;
+}
+.description{
+width: 980px;
+display: block;
+margin-top: 50px;
+}
+.description p{
+text-align: center;
+color: #000000;
+font-size: 16px;
+font-family: sans-serif;
+  line-height: 8px;
+}
+.imgeandd{
+width: 980px;
+  display: inline-block;
+}
+
+.cross{
+  width: 399px;
+float: left;
+background: #75120a;
+    margin: 39px;
+    border-radius: 20px;
+}
+.cross h2{
+text-align: center;
+color:#fff;
+font-size: 41px;
+font-weight: bold;
+font-family: sans-serif;
+margin-bottom: -31px;
+}
+
+.cross p{
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.cross1{
+  width: 399px;
+float:left;
+background: #75120a;
+    margin: 39px;
+    border-radius: 20px;
+}
+.cross1 h2{
+text-align: center;
+color:#fff;
+font-size: 41px;
+font-weight: bold;
+font-family: sans-serif;
+margin-bottom: -31px;
+}
+
+.cross1 p{
+  text-align: center;
+    color: #fff;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.infor{
+width: 980px;
+display: block;
+
+}
+.infor1{
+width: 980px;
+display: block;
+
+}
+
+.infor1 h2{
+color: #fff;
+background: #75120a;
+font-family: sans-serif;
+line-height: 55px;
+padding-left: 64px;
+}
+
+.infor1 p{
+text-align: center;
+color: #000000;
+font-size: 16px;
+font-family: sans-serif;
+  line-height: 21px;
+}
