@@ -2,9 +2,9 @@
   width: 100%;
 }
 .maingood{
-  width: 980px;
+  max-width: 980px;
   margin: auto;
-border: 3px solid #75120a;
+border: 5px solid #49574b;
 }
 #designer-header-middle {
 width: 100%;
@@ -14,7 +14,7 @@ padding: 0;
 clear: both;
 display: table;
 max-width: 1200px;
-border-bottom: 3px solid #75120a;
+border-bottom: 5px solid #49574b;
 }
 #designer-logo {
 float: left;
@@ -113,7 +113,7 @@ margin-bottom: -31px;
 
 .esd p{
 text-align: center;
-color: #75120a;
+color: #7b9f5d;
 font-size: 36px;
 }
 .imge{
@@ -131,7 +131,6 @@ text-align: center;
 color: #000000;
 font-size: 16px;
 font-family: sans-serif;
-  line-height: 8px;
 }
 .imgeandd{
 width: 980px;
@@ -141,7 +140,7 @@ width: 980px;
 .cross{
   width: 399px;
 float: left;
-background: #75120a;
+background: #7b9f5d;
     margin: 39px;
     border-radius: 20px;
 }
@@ -163,7 +162,7 @@ margin-bottom: -31px;
 .cross1{
   width: 399px;
 float:left;
-background: #75120a;
+background: #7b9f5d;
     margin: 39px;
     border-radius: 20px;
 }
@@ -195,7 +194,7 @@ display: block;
 
 .infor1 h2{
 color: #fff;
-background: #75120a;
+background: #7b9f5d;
 font-family: sans-serif;
 line-height: 55px;
 padding-left: 64px;
